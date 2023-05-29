@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+  "local_server": "True",
+  "local_uri": "mysql://root:@localhost/bankai",
+  "prod_uri": "mysql://root:@localhost/bankai",
+  "fb_url": "https://facebook.com/bankai",
+  "tw_url": "https://twitter.com/bankai",
+  "gh_url": "https://github.com/bankai",
+  "blog_name": "BANKAI",
+  "gmail-user": "",
+  "gmail-password": "",
+  "about_text": "Hi, I am Nishit Bhargava and this is my first web development try",
+  "no_of_posts": 2,
+  "login_image":"bankai.jpg",
+  "admin-user": "Nishit",
+  "admin-password": "Nishida",
+  "upload_location": "C:\\Users\\nayan\\PycharmProjects\\Tut-1\\static\\assets\\img"
+  }
+
+}
